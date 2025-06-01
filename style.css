@@ -76,7 +76,7 @@ nav ul li a:hover {
 .btn {
   background: #ffffff;
   color: #0099f7;
-  padding: 0.75rem 1.5rem;
+  padding: 5px;
   border-radius: 30px;
   text-decoration: none;
   font-weight: 600;
